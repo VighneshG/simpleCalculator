@@ -2,7 +2,7 @@ h1 {
   color: rgb(223, 125, 39);
 }
 h2 {
-  color: linear-gradient(to left, blue, seagreen);
+  color: rgb(6, 94, 97);
 }
 
 .calc {
@@ -22,7 +22,8 @@ h2 {
 
 body {
   text-align: center;
-  background: linear-gradient(to left, rgb(223, 165, 165), rgb(174, 228, 174));
+  background: linear-gradient(to right, rgb(223, 165, 165), rgb(174, 228, 174));
+  height: 100%;
   margin: 0%;
   padding: 0%;
 }
